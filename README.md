@@ -18,4 +18,4 @@ This project was created to understand how real-world landing pages are structur
 - Simple footer
 
 ## 🌐 Live Demo
-(Add your deployed GitHub Pages link here)
+https://varadaraju09.github.io/project-02-responsive-landing/
